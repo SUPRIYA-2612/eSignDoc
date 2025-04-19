@@ -1,7 +1,4 @@
 
-  
-
-
     <h3>📤 Upload Document for eSignature</h3>
 
     <form action="{{ route('upload.store') }}" method="POST" enctype="multipart/form-data" class="form-box">
