@@ -28,4 +28,3 @@ DB_DATABASE=esigner_db
 DB_USERNAME=root
 DB_PASSWORD=
 
-Preview Page: `/dashboard`
